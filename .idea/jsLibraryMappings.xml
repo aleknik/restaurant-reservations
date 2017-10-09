@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Chart, angular, angular-chart, angular-ui-router, bootstrap, bootstrap-datetimepicker, bootstrap-table, calendar, fullcalendar, index, interact, jquery, moment, sockjs, stomp, toastr, ui-bootstrap-tpls}" />
+  </component>
+</project>
